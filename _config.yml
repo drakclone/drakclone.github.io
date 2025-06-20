@@ -1,5 +1,6 @@
 title: tokyo-night-theme
 description: "Tokyo night theme"
 encoding: utf-8
-
+enable_dark_theme: true
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
+footer: "Made 2025"
