@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: tokyo-night-theme
+description: "Tokyo night theme"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
