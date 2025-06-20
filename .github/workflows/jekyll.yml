@@ -43,6 +43,8 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      - name: Set execute permission for get_commit_date.sh
+        run: chmod +x ./get_commit_date.sh
       - name: Save commit date
         run: ./get_commit_date.sh
       - name: Build with Jekyll
