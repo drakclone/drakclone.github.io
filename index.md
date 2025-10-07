@@ -1,31 +1,7 @@
----
-title: Home
-layout: default
----
-
-# Tokyo night theme
-Cool theme which I just named Tokyo night for fun
-
-## About
-
-Welcome to the Tokyo Night Jekyll Theme! This theme is inspired by the Tokyo Night VSCode color scheme.
-
-## Features
-
-- Dark mode support
-- Responsive design
-
-## Blog Posts
-
-{% for post in site.posts %}
-  <article>
-    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-    <p>{{ post.date | date: "%B %d, %Y" }}</p>
-    <span>{{ post.excerpt }}</span>
-  </article>
-{% endfor %}
-
-
-## Contact
-
-Feel free to reach out via [GitHub](https://github.com/IamSTEINI).
+# drakonix home page
+[Sandboxels](https://drakclone.github.io/sandboxels/)
+[MonkeyMart](https://drakclone.github.io/MonkeyMart/)
+[MonkeyGG2](https://drakclone.github.io/monkeygg2.github.io/)
+[PurePro](https://drakclone.github.io/PurePro4561.github.io/)
+[Polytrack (Ver. 0.5.1)](https://drakclone.github.io/polytrack-0.5.1/)
+[Umbrion](https://drakclone.github.io/Umbrion/)
