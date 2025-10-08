@@ -13,6 +13,4 @@
 
 [Mayhem 2](https://drakclone.github.io/mayhem-2/)
 
-[Drift Hunters](https://drakclone.github.io/DriftHunters/)
-
 [Clever](https://clever.college/)
