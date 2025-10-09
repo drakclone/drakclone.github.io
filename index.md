@@ -20,3 +20,5 @@
 [Papa's Burgeria](https://drakclone.github.io/Burgeria/)
 
 [Papa's Pizzaria](https://drakclone.github.io/Pizzaria)
+
+[Riddle School Complete Collection](https://drakclone.github.io/Riddle-School-Complete)
