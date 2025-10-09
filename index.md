@@ -13,4 +13,12 @@
 
 [Mayhem 2](https://drakclone.github.io/mayhem-2/)
 
+[Jacksmith](https://drakclone.github.io/Jacksmith/)
+
+[Papa's Scooperia](https://drakclone.github.io/Scooperia/)
+
+[Papa's Burgeria](https://drakclone.github.io/Burgeria/)
+
+[Papa's Pizzaria](https://drakclone.github.io/Pizzaria)
+
 [Clever](https://clever.college/)
